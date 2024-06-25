@@ -44,8 +44,6 @@ function DesktopNavbar() {
     };
   });
 
-  console.log(window.screenY);
-
   return (
     <div
       className={cn(
